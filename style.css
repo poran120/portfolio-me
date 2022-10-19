@@ -261,7 +261,8 @@ nav ul li a:hover{
     padding: 0 40px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    /* justify-content: space-between; */
+    gap: 35px;
     margin-bottom: 30px;
 }
 .work-sec-1 img{
